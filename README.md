@@ -9,7 +9,9 @@
 
 ### `npm start`
 
-Abra a aplicação no endereço [http://localhost:3000](http://localhost:3000) no seu navegador.
+### Abra a aplicação no endereço [http://localhost:3000](http://localhost:3000) no seu navegador.
+
+# ___________________________________________________________________________________________________________________
 
 ## Em caso de problema ao executar o comando `npm start` siga os seguintes passos:
 

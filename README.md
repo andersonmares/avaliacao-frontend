@@ -1,9 +1,9 @@
-#avaliacao-frontend
+# avaliacao-frontend
 
 - React
 - Bootstrap
 
-Para executar o projeto utilize o comando: 
+## Para executar o projeto utilize o comando: 
 
 ### `npm install`
 
@@ -11,7 +11,7 @@ Para executar o projeto utilize o comando:
 
 Abra a aplicação no endereço [http://localhost:3000](http://localhost:3000) no seu navegador.
 
-Em caso de problema ao executar o comando `npm start` siga os seguintes passos:
+## Em caso de problema ao executar o comando `npm start` siga os seguintes passos:
 
 ### 1º - `npm install -g npm@latest` para atualizar o npm
 
